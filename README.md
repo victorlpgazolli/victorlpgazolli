@@ -9,16 +9,6 @@
 ![focus](https://img.shields.io/badge/focus-ReactNative-brightgreen)
 ![living](https://img.shields.io/badge/living-SaoPaulo-3c9)
 
-<img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-
-
-<pre>
-const Contacts = { 
- Linkedin: "https://www.linkedin.com/in/victor-g-6bbab6103",
- Email: "victorlpgazolli@gmail.com",
-}
-</pre>
-
 <br />
 
 
@@ -56,10 +46,7 @@ const Contacts = {
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/victor-g-6bbab6103/)
 [<img src="https://img.shields.io/badge/github-%231877F2.svg?&style=for-the-badge&logo=github&logoColor=white&color=black">](https://github.com/victorlpgazolli)
+[<img src="https://img.shields.io/badge/email-%231877F2.svg?&style=for-the-badge&logo=email&logoColor=white&color=red">](mailto:victorlpgazolli@gmail.com)
+[<img src="https://img.shields.io/badge/gpg_public_key-%231877F2.svg?&style=for-the-badge&logo=email&logoColor=black&color=blue">](https://github.com/victorlpgazolli/victorlpgazolli/blob/master/public_key.gpg?raw=true)
 
 </div>
-
-
-
-
-
