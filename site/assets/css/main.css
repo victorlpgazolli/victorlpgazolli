@@ -420,8 +420,8 @@ header {
     gap: 10px;
     margin-top: 10px;
     align-items: center;
-   
-   
+
+
 }
 
 .flex-skill span {
@@ -647,7 +647,7 @@ footer p {
     text-align: center;
 }
 
-.hamburger-menu {
+.hamburguer-menu {
     display: none;
 }
 
@@ -675,7 +675,7 @@ footer p {
         display: none;
     }
 
-    .hamburger-menu {
+    .hamburguer-menu {
         display: block;
     }
 
@@ -1087,6 +1087,11 @@ footer p {
     transition: 0.5s;
 }
 
+.loading-page-transition {
+    transform: translateX(0px);
+    transition: 0.5s;
+    right: 0;
+}
 
 @supports ((-webkit-backdrop-filter: none) or (backdrop-filter: none)) {
     header {
@@ -1137,18 +1142,18 @@ footer p {
 
     .flex-skill :not(:last-child) {
         margin-right: 10px;
-        
+
     }
 
     .flex-skill span i {
 
         margin-right: 5px;
-        
+
     }
 
     .container-project article:first-child {
         margin-right: 50px;
-       
+
     }
 
 
@@ -1178,9 +1183,12 @@ footer p {
         margin-right: 20px;
 
     }
-    .contacts-icon a i{
+
+    .contacts-icon a i {
         margin-right: 10px;
-    };
+    }
+
+    ;
 
 
     .menu-mobile li:not(:last-child) {
@@ -1194,7 +1202,7 @@ footer p {
 
     }
 
-    
+
 
 
     @media(max-width:1280px) {
@@ -1222,7 +1230,7 @@ footer p {
 
         .container-project article:first-child {
             margin: 0px;
-           
+
         }
 
 
@@ -1230,21 +1238,22 @@ footer p {
         .contacts-icon div>a:last-child {
 
             margin-top: 10px;
-    
+
         }
-       
+
 
     }
-    @media(max-width:475px){
 
-        .flex-skill span{
-           
+    @media(max-width:475px) {
+
+        .flex-skill span {
+
             margin-bottom: 10px;
-           
+
         }
     }
 
-    @media(max-width:330px){
+    @media(max-width:330px) {
 
         .contacts-icon div>a:nth-child(2) {
             margin: 0;
@@ -1252,24 +1261,25 @@ footer p {
     }
 
 
-    @media(max-width:290px){
+    @media(max-width:290px) {
 
         .contacts-icon div {
             margin: 0;
             display: flex;
             flex-direction: column;
         }
-        .contacts-icon div>a:nth-child(1){
+
+        .contacts-icon div>a:nth-child(1) {
             margin: 0;
-            
+
         }
+
         .contacts-icon div>a:nth-child(2) {
 
             margin-top: 10px;
-    
+
         }
     }
 
 
 }
-

@@ -1,6 +1,6 @@
 import animatedScroll from "./animation.js";
 
-const hamburger = document.querySelector("#menu__toggle");
+const hamburguer = document.querySelector("#menu__toggle");
 
 const menu = document.querySelector(".container-menu-mobile");
 
@@ -23,7 +23,7 @@ const toggleHeaderVisibility = () => {
   optionsState.opened = !optionsState.opened;
 }
 
-hamburger.addEventListener("click", toggleHeaderVisibility);
+hamburguer.addEventListener("click", toggleHeaderVisibility);
 
 menuItems.forEach((item) => {
   item.addEventListener("click", toggleHeaderVisibility);
