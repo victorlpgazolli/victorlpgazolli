@@ -788,7 +788,9 @@ footer p {
     }
 
 
-
+    .hide-in-mobile {
+        display: none !important;
+    }
 
     .bg-header-block-mobile {
         display: flex;
@@ -872,7 +874,6 @@ footer p {
     .container-informacao-top h1 {
         margin: 0;
         margin-bottom: 20px;
-        margin-left: 40px;
     }
 
 
@@ -1024,6 +1025,10 @@ footer p {
         margin: 0 auto;
     }
 
+}
+
+.hide-in-mobile {
+    display: block;
 }
 
 
