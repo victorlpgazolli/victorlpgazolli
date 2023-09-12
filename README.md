@@ -1,12 +1,9 @@
-![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
-
 <h1 align="center"> Hey! I'm victorlpgazolli <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
 
-<h3 align="center">I'm a React Native Developer and CE Student from Brazil</h3>
+<h3 align="center">I'm a Mobile Software Engineer from Brazil</h3>
   
 
-![age](https://img.shields.io/badge/age-22-blue)
-![focus](https://img.shields.io/badge/focus-ReactNative-brightgreen)
+![age](https://img.shields.io/badge/age-23-blue)
 ![living](https://img.shields.io/badge/living-SaoPaulo-3c9)
 
 <br />
@@ -32,16 +29,8 @@
 
 </div>
 
-<br >
 
-## 🏆 Github Status
-
-<img  src="https://github-readme-stats.vercel.app/api?username=victorlpgazolli&show_icons=true&hide_border=true&theme=dark" width="45%" align="right" >
-
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=victorlpgazolli&theme=dark" width="45%" >
-
-<br>
-
+  
 <div align="center">
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/victor-g-6bbab6103/)
